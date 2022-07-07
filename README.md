@@ -12,7 +12,7 @@ Tech Stacks Used:
 
 FUNCTANALITY ADDED
 
-1.  pleasE  navigate to differnt page by clicking ANTHROPOLOGIE ANTHROLIVING HOME IMAGES ON NAVBAR 
+1.  please  navigate to differnt page by clicking ANTHROPOLOGIE ANTHROLIVING HOME IMAGES ON NAVBAR 
 
 ![WhatsApp Image 2022-07-08 at 1 03 59 AM](https://user-images.githubusercontent.com/108179730/177857980-81fa1644-a150-43f7-ade0-966cbd9153e5.jpeg)
 
