@@ -12,7 +12,7 @@ Tech Stacks Used:
 5. Concept of import and export
 6. ES-6
 
-FUNCTANALITY ADDED
+FUNCTIONALITY ADDED
 
 1.  please  navigate to differnt page by clicking ANTHROPOLOGIE ANTHROLIVING HOME IMAGES ON NAVBAR 
 
